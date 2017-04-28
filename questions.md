@@ -14,8 +14,8 @@
 
 ## Josh
 
-- one
-- two
+- What was your greatest challenge in creating your first start-up?
+- Do you still actively code projects?
 
 ## Jason
 
