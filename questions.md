@@ -2,20 +2,20 @@
 
 ## Rex
 
-- one 
+- one
 - two
- 
+
 ## Khali
 
-- one 
-- two
- 
+- What was the biggest roadblock you had to overcome?
+- What's your overall motivation?
+
 ## Josh
 
 - one 
 - two
- 
+
 ## Jason
 
-- one 
+- one
 - two
